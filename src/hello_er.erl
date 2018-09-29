@@ -17,5 +17,6 @@
 
 er() ->
 	lager:debug("_____hellobr_____"),
+lager:debug("_____helloar_____"),
 lager:debug("_____helloar_____").
 
